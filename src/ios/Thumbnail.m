@@ -3,7 +3,8 @@
 //  ThumbnailTest
 //
 //  Created by Jacking Liu on 14-9-14.
-//  Copyright (c) 2014年 中科软应用系统一部. All rights reserved.
+//  Changed by Beate Rohrmoser on 18-1-20.
+//  Copyright (c) 2018. All rights reserved.
 //
 
 #import <Cordova/CDV.h>
